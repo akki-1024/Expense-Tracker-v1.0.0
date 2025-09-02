@@ -25,6 +25,7 @@ const Login = () => {
             display: 'flex',
             justifyContent: 'center',
             alignItems: 'center',
+            bgcolor: 'red'
         }}>
 
             <img src={bgColor} style={{
