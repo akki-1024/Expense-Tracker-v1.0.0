@@ -27,13 +27,13 @@ const Login = () => {
             alignItems: 'center',
         }}>
 
-            <img src={bgColor} style={{
+            {/* <img src={bgColor} style={{
                 width: '100vw',
                 height: '100vh',
                 position: 'absolute',
                 objectFit: 'cover',
                 zIndex: -1
-            }} />
+            }} /> */}
 
             <Container component={'div'} maxWidth="md" sx={{
                 minHeight: '600px',
