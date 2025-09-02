@@ -40,7 +40,6 @@ const Login = () => {
                 display: 'flex',
                 flexDirection: 'column',
                 justifyContent: 'space-evenly',
-                bgcolor: 'red',
                 color: 'white',
             }}>
 
