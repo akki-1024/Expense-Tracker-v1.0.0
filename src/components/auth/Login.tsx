@@ -1,5 +1,5 @@
 import { Button, Container, TextField, Typography } from "@mui/material"
-import bgColor from '../../assets/bgcover.jpg';
+// import bgColor from '../../assets/bgcover.jpg';
 import logo from '../../assets/Expensio.png';
 import { useState } from "react";
 
