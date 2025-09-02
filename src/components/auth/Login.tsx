@@ -40,8 +40,8 @@ const Login = () => {
                 display: 'flex',
                 flexDirection: 'column',
                 justifyContent: 'space-evenly',
-                bgcolor: 'transparent',
-                color: 'white'
+                bgcolor: 'red',
+                color: 'white',
             }}>
 
                 <img src={logo} style={{
