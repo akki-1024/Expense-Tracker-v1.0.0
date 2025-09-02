@@ -15,7 +15,8 @@ const Login = () => {
             maxWidth: {
                 lg: '100vw'
             },
-            height: '100vh',
+            // height: '100vh',
+            minHeight: '100dvh',
             padding: {
                 lg: 0,
                 md: 0,
